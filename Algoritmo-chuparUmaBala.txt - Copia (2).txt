@@ -1,8 +1,0 @@
-1 - Pegar a bala;
-2 - Se bala tem embalagem Então
-	Tirar embalagem da bala;
-    Fim SE
-3 - Colocar a bala na boca;
-4 - Se bala tem embalagem Então
-	Jogar embalagem dentro da lixeiro;
-    Fim SE 
